@@ -1,0 +1,24 @@
+*{
+    margin:0;
+}
+.lapa{
+    width: 100vw;
+    height: 100vh;
+    
+    display: grid;
+    grid-template-columns: 1fr 4fr 2fr;
+    
+    
+}
+.puse-1{
+    background-color: red;
+    
+}
+.puse-2{
+    background-color: blue;
+    
+}
+.puse-3{
+    background-color: green;
+     
+}
